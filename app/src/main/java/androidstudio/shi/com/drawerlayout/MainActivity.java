@@ -11,6 +11,11 @@ import com.nineoldandroids.view.ViewHelper;
 
 import org.w3c.dom.Text;
 
+/**
+ * 侧滑菜单效果实现
+ * @author SHI
+ * @time 2016/7/19 17:22
+ */
 public class MainActivity extends AppCompatActivity {
 
     private DrawerLayout mDrawerLayout;

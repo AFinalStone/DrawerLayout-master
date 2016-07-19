@@ -6,6 +6,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * 左侧菜单
+ * @author SHI
+ * @time 2016/7/19 17:23
+ */
 public class MenuLeftFragment extends Fragment
 {
 
